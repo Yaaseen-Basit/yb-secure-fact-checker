@@ -19,10 +19,11 @@ This project provides an AI-powered misinformation detection and cybersecurity a
 - Regular expressions for phishing URL heuristics  
 
 ## Project Structure
-app.py # Main Streamlit application
-├── requirements.txt # Python dependencies
-├── .env # Environment variables (not committed to git)
-└── README.md # Project documentation
+├── app.py             # Main Streamlit application
+├── requirements.txt   # Python dependencies
+├── .env               # Environment variables (not committed to git)
+└── README.md          # Project documentation
+
 
 ## Installation
 
