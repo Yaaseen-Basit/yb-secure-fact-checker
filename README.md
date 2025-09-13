@@ -29,7 +29,7 @@ app.py # Main Streamlit application
 Clone the repository and set up the environment:
 
 ```bash
-git clone https://github.com/your-username/secure-fact-checker.git
+git clone https://github.com/Yaaseen-Basit/yb-secure-fact-checker.git
 cd secure-fact-checker
 
 python -m venv .venv
